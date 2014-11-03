@@ -49,7 +49,7 @@
  * > Concurrent versions of AjaXplorer : use session.cookie_path to differentiate them.
  */
 $AJXP_INISET = array();
-//$AJXP_INISET["session.save_path"] = AJXP_DATA_PATH."/tmp/sessions";
+$AJXP_INISET["session.save_path"] = AJXP_DATA_PATH."/tmp/sessions";
 //$AJXP_INISET["session.cookie_path"] = "/ajaxplorer";
 
 /*
